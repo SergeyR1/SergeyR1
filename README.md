@@ -42,4 +42,4 @@ of Economics and develop hands-on learning materials for master's students.
 I'd like to connect with people building practical AI tools for education,
 designing evaluation workflows, or creating reproducible teaching materials.
 
-- LinkedIn: [linkedin.com/in/sergeysedelnikov/]
+- [LinkedIn](https://www.linkedin.com/in/sergeysedelnikov/)
