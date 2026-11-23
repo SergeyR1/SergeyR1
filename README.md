@@ -6,18 +6,18 @@ decision-makers, and teach it.
 
 ## What I Do
 
-### 🏫 Digital Transformation in Education
+## 🏫 Digital Transformation in Education
 
 I help educational organizations turn operational needs into digital services,
 from defining what to build to developing and evaluating the result.
 
-### Applied AI & Software Engineering
+## Applied AI & Software Engineering
 
 I build and evaluate AI systems for educational and analytical workflows.
 I'm especially interested in making model outputs testable, explainable,
 and useful to the people who rely on them.
 
-### Teaching & Research
+## Teaching & Research
 
 I teach information systems for applied research at Plekhanov Russian University
 of Economics and develop hands-on learning materials for master's students.
@@ -42,6 +42,4 @@ of Economics and develop hands-on learning materials for master's students.
 I'd like to connect with people building practical AI tools for education,
 designing evaluation workflows, or creating reproducible teaching materials.
 
-- 🌐 [Website or portfolio](YOUR_WEBSITE_URL)
-- 💬 [https://www.linkedin.com/in/sergeysedelnikov/]
-- 📧 [Email](mailto:YOUR_EMAIL)
+- LinkedIn: [linkedin.com/in/sergeysedelnikov/]
