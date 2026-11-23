@@ -36,6 +36,7 @@ of Economics and develop hands-on learning materials for master's students.
 - **Programming:** Python, R, SQL
 - **AI & data:** NLP, LLM evaluation, model interpretability
 - **Engineering:** Git, GitHub, automated testing
+- **Tools:** Cursor, K-Dense, Perplexity
 
 ## 🤝 Let's Collaborate
 
